@@ -50,3 +50,68 @@
     1. [_SA-17_اميرحسين روشن مهر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/17_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B1%D9%88%D8%B4%D9%86%20%D9%85%D9%87%D8%B1)
     1. [_SA-08_علي جلالي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/08_%D8%B9%D9%84%D9%8A%20%D8%AC%D9%84%D8%A7%D9%84%D9%8A)
     1. [_SA-02_شاهين جلالي قره موسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_71/02_%D8%B4%D8%A7%D9%87%D9%8A%D9%86%20%D8%AC%D9%84%D8%A7%D9%84%D9%8A%20%D9%82%D8%B1%D9%87%20%D9%85%D9%88%D8%B3%D9%8A)
+
+
+--------------------
+
+## روز و ساعت ارائه دروس
+<div dir="ltr">
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ><a ></a></th>
+    <th ><a ></a></th>
+    <th ><a  ></a></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ><a  ></a> </th>
+     <th ><a  ></a></th>
+     <th><a  ></a></th>
+     <th><a ></a></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ><a ></a></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ><a ></a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+</div>
