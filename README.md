@@ -4,6 +4,7 @@
 - [PNU_3991_AR](https://github.com/shahinjalali/PNU_3991_AR)
 - [Resume](https://shahinjalali.github.io/)
 - [Sop](https://shahinjalali.github.io/SOP/)
+- [Certificates](https://github.com/shahinjalali/PNU_3991_AR/tree/main/Certificates)
 - [GitHub](https://github.com/shahinjalali)
 
 ----------------------------------
