@@ -12,13 +12,13 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/shahinjalali/PNU_3991_AR/blob/main/_General/SJ_CV_CheckList_AR_3991(3).pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/shahinjalali/PNU_3991_AR/blob/main/_General/SJ_GeneralSection_CheckList_AR_3991(1).pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
-- [خلاصه ارزیابی درس_معماری نرم افزار]()
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/shahinjalali/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SJ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/shahinjalali/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SJ_SoftwareDevelopmentMethodologies_CheckList_AR_3991(1).pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/shahinjalali/PNU_3991_AR/blob/main/SoftwareArchitecture/SJ_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 -----------------------------
 
